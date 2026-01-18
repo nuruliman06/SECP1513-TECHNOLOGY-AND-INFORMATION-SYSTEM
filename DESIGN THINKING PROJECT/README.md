@@ -34,6 +34,7 @@ I would like to sincerely thank **Dr. Suriati binti Sadimon** for her guidance, 
 **Special thanks to my teammates**:  
 **Nurin Natasha, Nurul Hafizzah, Sharifah Nadiah Balqis** for their contributions and support — we successfully completed CyberCare together! 🎉
 
+---
 ## 📸Photo
 
 ![ec611b07-5827-4e0b-9256-c442d48397cd](https://github.com/user-attachments/assets/24b58cc5-60a8-4fb0-9077-5ee63d5eeba4)
