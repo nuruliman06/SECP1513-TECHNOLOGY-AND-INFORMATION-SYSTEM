@@ -5,9 +5,10 @@
 **Venue:** Dewan Seminar, Level 4, UTM Digital  
 **Speaker:** Helmee bin Yacoob (Admin, Digital Division of Digital Innovation)
 
----
+![WhatsApp Image 2026-01-18 at 08 19 29](https://github.com/user-attachments/assets/a4ca4eac-9284-431c-b3e4-f59c2a34dcb8)
 
-## 📝 Summarization
+---
+## 📝Summarization
 From the industrial visit, I learned the main reasons why projects fail, including:  
 - **Poor preparation** – unclear planning can cause delays and confusion in projects.  
 - **Weak leadership** – affects team performance and decision-making.  
