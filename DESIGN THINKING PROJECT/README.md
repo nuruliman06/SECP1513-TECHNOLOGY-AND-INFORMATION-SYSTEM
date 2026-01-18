@@ -44,7 +44,7 @@ I would like to sincerely thank **Dr. Suriati binti Sadimon** for her guidance, 
 
 ---
 ## 📊 Presentation Slides
- [View or download the slides](https://www.canva.com/design/DAG4qFpmhic/OxjiEuT7btLb908zYSZ1dQ/edit?utm_content=DAG4qFpmhic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ [View or download the slides](https://www.canva.com/design/DAG4qFpmhic/Ht_uPTnwDVAdTk98jXNx9Q/view?utm_content=DAG4qFpmhic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7f38369124)
  
 ---
 ## 📸Photos
