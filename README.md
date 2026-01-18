@@ -29,6 +29,7 @@ This course introduces fundamental concepts and applications of technology and i
 | **PC Assemble & Lab** | Hands-on experience in assembling and understanding PC hardware components. |
 | **Design Thinking Project: CyberCare(CC)** | A group project applying design thinking to develop solutions to problems through collaboration, innovation and design.|-->
 
+---
 ## 📸Photos
 
 ![6974fbf3-9d0e-4f2f-9806-0f116e42859d](https://github.com/user-attachments/assets/7475fd4b-3efd-498d-bd9d-ea3e9b710ad7)
