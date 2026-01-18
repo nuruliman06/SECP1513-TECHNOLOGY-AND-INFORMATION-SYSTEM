@@ -1,4 +1,4 @@
-[A3.pdf](https://github.com/user-attachments/files/24694366/A3.pdf)# 💼  ASSIGNMENT 2: PPG INDUSTRY TALK 1 (PPG)
+# 💼  ASSIGNMENT 2: PPG INDUSTRY TALK 1 (PPG)
 
 **Date:** 20 November 2025 (Thursday)  
 **Time:** 2:00 p.m.  
