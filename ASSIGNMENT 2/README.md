@@ -30,7 +30,8 @@ As a Computer Network and Security student, this talk helped me understand the c
 
 ---
 ## 📑 Speaker's Presentation Slides
-[View slides (PDF)](https://github.com/user-attachments/files/24694995/A3.pdf)
+[View slides (PDF)](https://drive.google.com/file/d/1ACVNNWJE7wBY3svFuj_7fPr9RezmkrIk/view?usp=drivesdk)
+
 
 
 
