@@ -35,14 +35,17 @@ I would like to sincerely thank **Dr. Suriati binti Sadimon** for her guidance, 
 **Nurin Natasha, Nurul Hafizzah, Sharifah Nadiah Balqis** for their contributions and support — we successfully completed CyberCare together! 🎉
 
 ---
-## Report
-[TIS DESIGN THINKING REPORT CYBERCARE  SECTION 06.pdf](https://github.com/user-attachments/files/24694342/TIS.DESIGN.THINKING.REPORT.CYBERCARE.SECTION.06.1.pdf)
+## 📄 Report
+[View PDF](https://github.com/user-attachments/files/24694342/TIS.DESIGN.THINKING.REPORT.CYBERCARE.SECTION.06.1.pdf)
 
 ---
-## Video
+## 🎥 Project Video
+[Watch Here](https://drive.google.com/file/d/1feMu627yqfZfuR-4qo7nZfMeuNXiAQsN/view?usp=drivesdk)
 
 ---
-## Slide Presentation
+## 📊 Presentation Slides
+ [View or download the slides (PowerPoint)](https://drive.google.com/file/d/1feMu627yqfZfuR-4qo7nZfMeuNXiAQsN/view?usp=drive_link)  
+ 
 ---
 ## 📸Photos
 
