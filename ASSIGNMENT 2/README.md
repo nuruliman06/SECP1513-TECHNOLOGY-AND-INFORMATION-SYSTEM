@@ -12,7 +12,7 @@
 I attended an online industry talk by PPG, a company recognized for its innovations in coatings and industrial solutions. The session provided valuable insights into how PPG manages data, systems, and global operations efficiently.
 
 Key topics discussed during the talk included:
-- **Data-Driven Decision Making:**How data is used to support informed decisions and optimize business processes.  
+- **Data-Driven Decision Making**How data is used to support informed decisions and optimize business processes.  
 - **Organization and Global Infrastructure:** How teams and processes are structured across multiple locations to ensure smooth operations and accurate data handling.  
 - **SAP Systems (System Analysis and Program Development):** Integrated tools that connect departments and support effective decision-making.
 
