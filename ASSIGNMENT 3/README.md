@@ -6,6 +6,8 @@
 **📍 Venue:** Webex Meetings (Online)  
 **🎤 Speaker:** Ts. Hj. Abdul Alim bin Abdul Muttalib (Head of Technology and Innovation, Serunai Commerce Sdn Bhd)
 
+![8e5126ba-a239-4331-8267-5fb47442cd8c](https://github.com/user-attachments/assets/d9201d74-f17b-4dce-a3c2-428c9cd2fc70)
+
 ---
 
 ## 📝 Summary
