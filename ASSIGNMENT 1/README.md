@@ -38,7 +38,7 @@ This industrial visit increased my interest in **project management, system deve
 [Click here to watch the vlog](https://drive.google.com/file/d/1AnOXK2SoNuZKXca7VlbDwg6OVPLWsUVD/view?usp=drivesdk)
 
 ---
-## 📸Photo
+## 📸Photos
 
 ![bfb9b2e4-ffd2-437b-9f9f-255595526751](https://github.com/user-attachments/assets/7e8f2116-0f2e-4320-a2b4-6713a4ff4a27)
 
