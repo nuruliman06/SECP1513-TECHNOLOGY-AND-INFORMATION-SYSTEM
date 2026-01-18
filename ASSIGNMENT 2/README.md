@@ -1,4 +1,4 @@
-# 💼  ASSIGNMENT 2: PPG INDUSTRY TALK 1 (PPG)
+[A3.pdf](https://github.com/user-attachments/files/24694366/A3.pdf)# 💼  ASSIGNMENT 2: PPG INDUSTRY TALK 1 (PPG)
 
 **Date:** 20 November 2025 (Thursday)  
 **Time:** 2:00 p.m.  
@@ -24,6 +24,7 @@ The explanation of PPG’s process flow was particularly insightful. I learned h
 As a Computer Network and Security student, this talk helped me understand the critical role of data management and security in large-scale operations. Protecting sensitive information and maintaining data integrity are essential for efficient and reliable systems. The session motivated me to further strengthen my skills in cybersecurity and data-driven operations.
 
 ## 📸 Poster
+
 
 
 
