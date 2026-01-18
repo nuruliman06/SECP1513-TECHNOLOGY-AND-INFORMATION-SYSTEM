@@ -4,6 +4,8 @@
 **Time:** 2:00 p.m.  
 **Venue:** Webex Meetings (Online)  
 
+![c4e1482c-8762-4fb8-88c1-7100b5ae61ae](https://github.com/user-attachments/assets/98561f9a-48e1-4a35-a0f0-a3afeb6c4c5c)
+
 ---
 
 ## 📝 Summarization
@@ -20,3 +22,9 @@ The explanation of PPG’s process flow was particularly insightful. I learned h
 
 ## 💡 Personal Reflection
 As a Computer Network and Security student, this talk helped me understand the critical role of data management and security in large-scale operations. Protecting sensitive information and maintaining data integrity are essential for efficient and reliable systems. The session motivated me to further strengthen my skills in cybersecurity and data-driven operations.
+
+## 📸 Poster
+
+
+
+
