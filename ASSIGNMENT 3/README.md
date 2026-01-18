@@ -40,3 +40,11 @@ The session also highlighted how project management and system development contr
 From this talk, I realized that **learning without true understanding** and **without knowing how to apply knowledge to real-world problems** can limit future career opportunities. It reinforced that **project management** and **system development** are fundamental in computer science.  
 
 By **improving my programming skills, applying SDLC principles, and strengthening teamwork abilities**, I am preparing for a successful career in **cybersecurity**.
+
+---
+## Academic Writing
+[ASSIGNMENT 3 - ACADEMIC WRITING TIS SECTION 06 (1).pdf](https://github.com/user-attachments/files/24694354/ASSIGNMENT.3.-.ACADEMIC.WRITING.TIS.SECTION.06.1.pdf)
+
+[A3.pdf](https://github.com/user-attachments/files/24694356/A3.pdf)
+
+
