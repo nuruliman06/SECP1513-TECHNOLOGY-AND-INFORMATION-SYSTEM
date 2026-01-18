@@ -19,7 +19,7 @@ At the end of the lab session, a short quiz was conducted based on the PC mainte
 This lab enhanced my understanding of internal computer components and their functions. As it was my first experience assembling and disassembling a PC, it helped build my confidence in handling hardware components and following technical instructions. The session also emphasized the importance of proper handling, teamwork, and attention to detail in technical tasks. Overall, the lab was a valuable learning experience that strengthened my practical knowledge of PC maintenance.
 
 ---
-## 📸Photo
+## 📸Photos
 
 ![25d54a5b-6d4c-4caa-ace5-adbfa28a74ae](https://github.com/user-attachments/assets/6ca8a02d-be3d-4891-96b0-9560a371eaf1)
 
