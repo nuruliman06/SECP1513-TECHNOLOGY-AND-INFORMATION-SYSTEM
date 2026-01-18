@@ -22,7 +22,12 @@ Other teams handle **project governance**, cybersecurity, and technical support,
 ## 💡 Reflection
 My visit to Johor Port Berhad was an **inspiring experience** that showed me how vital IT professionals are to the maritime industry. It revealed exciting career opportunities where **technical skills in infrastructure and application development**are applied to manage real-world industrial operations.
 
-## 📸Photo
+---
+## 📰 Newsletter
+[View Newsletter (PDF)](https://github.com/user-attachments/files/24695059/ASSIGNMENT.4.NEWSLETTER_20260118_090344_0000.pdf)
+
+---
+## 📸Photos
 
 
 ![bcdce35a-c97f-42a8-82c9-bed541347051](https://github.com/user-attachments/assets/3ac58ed2-224c-4ff5-bdf5-b3a30b54c28c)
