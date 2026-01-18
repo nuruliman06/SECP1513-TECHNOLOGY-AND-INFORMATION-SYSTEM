@@ -23,8 +23,14 @@ The explanation of PPG’s process flow was particularly insightful. I learned h
 ## 💡 Personal Reflection
 As a Computer Network and Security student, this talk helped me understand the critical role of data management and security in large-scale operations. Protecting sensitive information and maintaining data integrity are essential for efficient and reliable systems. The session motivated me to further strengthen my skills in cybersecurity and data-driven operations.
 
-## 📸 Poster
+---
 
+## 🖼️ Poster
+[Click to view the poster](https://github.com/user-attachments/files/24694986/INDUSTRY.TALK.PPG-2.pdf)
+
+---
+## 📑 Speaker's Presentation Slides
+[View slides (PDF)](https://github.com/user-attachments/files/24694995/A3.pdf)
 
 
 
